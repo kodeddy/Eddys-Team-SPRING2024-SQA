@@ -1,4 +1,4 @@
-name: Python Fuzz Testing
+name: Python Fuzz Testing.
 
 on:
   push:
