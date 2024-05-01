@@ -1,14 +1,12 @@
-name: Python Fuzz Testing.
+name: Python Fuzz Testing
 
 on:
   push:
     branches:
       - main
-      - master
   pull_request:
     branches:
       - main
-      - master
 
 jobs:
   fuzz:
